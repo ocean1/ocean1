@@ -1,4 +1,4 @@
-# Hi there! 👋
+# 👋 Hi there! 
 I'm ocean aka Davide Quarta.
 I find vulnerabilities where bits meet atoms — from **industrial robots** (5 CVEs in ABB/Universal Robots) to **IoT protocols** (Eclipse Mosquitto).
 
